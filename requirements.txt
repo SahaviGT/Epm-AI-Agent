@@ -1,0 +1,4 @@
+requests
+google-genai
+mcp
+duckduckgo-search
